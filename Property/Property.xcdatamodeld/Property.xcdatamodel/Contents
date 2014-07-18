@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="13D65" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Feeds" representedClassName="Feeds" syncable="YES">
+        <attribute name="propertyCategory" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="propertyDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="propertyDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="propertyLink" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="propertyTitle" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Feeds" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>
